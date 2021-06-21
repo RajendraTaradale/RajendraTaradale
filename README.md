@@ -15,5 +15,5 @@ Senior Associate at Western Union, Working on transformation project(greenfield 
 - Twitter - @RajendrTaradale
 
 ## My hobbies
-- Travelling
-- Learning through OpenSource
+- :small_airplane: Travelling (:musical_note:)
+- :books: Learning through OpenSource
