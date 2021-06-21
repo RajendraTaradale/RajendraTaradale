@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Who Am I 
 
 Rajendra Taradale
