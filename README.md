@@ -10,9 +10,18 @@ Senior Associate at Western Union, Working on transformation project(greenfield 
   :two: [WordPress Blog Post](https://rajendrataradale.wordpress.com/)
 
 ## How to reach me 
-- LinkedIn - https://www.linkedin.com/in/rajendra-taradale
-- Youtube - https://www.youtube.com/c/RajendraTaradaleBeHappy
-- Twitter - @RajendrTaradale
+<a href="https://www.linkedin.com/in/rajendra-taradale">
+  <img align="left" alt="Rajendra's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> https://www.linkedin.com/in/rajendra-taradale
+</br>
+<a href="https://twitter.com/RajendrTaradale">
+  <img align="left" alt="Rajendra Taradale | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a> @RajendrTaradale
+</br>
+<a href="https://www.youtube.com/c/RajendraTaradaleBeHappy">
+  <img align="left" alt="Rajendra Taradale | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a> https://www.youtube.com/c/RajendraTaradaleBeHappy
+
 
 ## My hobbies
 - :small_airplane: Travelling
