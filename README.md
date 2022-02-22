@@ -2,7 +2,7 @@
 
 Rajendra Taradale
 
-Senior Associate at Western Union, Working on transformation project(greenfield development) through MEAN+ tech stack and cloud-native applications on AWS using Microservices architecture, Docker, etc., A Full Stack Development enthusiast. Passionate about learning new technologies and exploring new ways of software solutions.
+Full Stack Developer, Working on transformation project(greenfield development) through MEAN+ tech stack and cloud-native applications on AWS/Azure using Microservices architecture, Docker, etc., A Full Stack Development enthusiast. Passionate about learning new technologies and exploring new ways of software solutions.
 
 🥇 Credly Badges -https://www.credly.com/users/rajendra-taradale.d5cf98be/badges
 
